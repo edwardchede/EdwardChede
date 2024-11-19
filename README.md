@@ -1,16 +1,26 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
 
-<!--
-**edwardchede/EdwardChede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi, Iam Edward Chede! I'm passionate about:
+- 🧑‍💻 Programming
+- 📊 Data Analysis
+- 🌍 Solving real-world problems with technology
 
-Here are some ideas to get you started:
+## My Skills
+- **Languages**: Python, JavaScript, HTML/CSS
+- **Tools**: Git and Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Check out some of my featured projects:
+- [Project 1 Identification of Gender-Bias in AI Model](https://github.com/edwardchede/Identification-of-Gender-Bias-in-AI-Model)
+- [Project 2  The Application of Machine Learning Algorithms in Optimizing Targeted Marketing Strategies for an Online Tourism Website](https://github.com/edwardchede/MachineLearning_TargetedMarketing) 
+
+## Get in Touch
+📫 Reach me at [EdwardChede@gmail.com](edwardchede@gmail.com)  
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/edward-chede-87a2852b3/)
+
+
+
+
+
+
