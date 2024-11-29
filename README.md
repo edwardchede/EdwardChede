@@ -1,7 +1,7 @@
 # Welcome to My GitHub! 👋
 
 ## About Me
-Hi, Iam Edward Chede! I'm passionate about:
+Hi, I am Edward Chede! I'm passionate about:
 - 🧑‍💻 Programming
 - 📊 Data Analysis
 - 🌍 Solving real-world problems with technology
