@@ -1,27 +1,16 @@
 # Welcome to My GitHub! 👋
 
-I am a passionate data science graduate with a strong foundation in AI engineering, machine learning, software development, and business intelligence. I am driven by a desire to leverage technology to solve complex problems and drive innovative solutions.
-Recently, I developed a context-aware AI assistant for academic planning at Teesside University where I fine-tuned a large language model (LLMs) with data scraped from the university’s portal, integrated a hybrid RAG pipeline and incorporated an Agentic decision-making layer. I have also applied machine learning to optimize tourism marketing strategies and conducted impactful research with the Redcar & Cleveland Voluntary Development Agency RCVDA) where I analyzed how transportation accessibility affects hospital appointment attendance. The work aimed to improve healthcare access in the community and mitigate the cost associated with missed appointments. I enjoy transforming complex data into meaningful, actionable solutions. aiming to create real-world impact.
+I build cloud-enabled analytics and data-driven solutions that turn complex data into actionable insights. Highly skilled in SQL for querying, validating, and transforming complex datasets, with a strong focus on data quality, integrity, and compliance. Proven ability to analyse large datasets to uncover trends and patterns that support business growth and strategic decision-making.
+
+Experienced in predictive analytics and machine/deep learning using Python, alongside designing intuitive, high-impact dashboards and reports in Power BI. Strong background in business intelligence, KPI development, and data modelling, with a track record of delivering clear, data-driven insights to both technical and non-technical stakeholders.
 
 
-## Core Competencies:
-* Machine Learning & Predictive Modelling
-* Natural Language Processing
-* Data Analysis & Visualization (Python, JavaScript, Power BI, SQL)
-* AI Solution Development
-* Full-Stack Web Development (React, Node.js, MongoDB)
-* Business Intelligence & Strategy Support
-
-## Soft Skills:
-* Communication
-* Team Collaboration
-* Attention to Detail
-* Problem-Solving
-* Critical Thinking
-* Adaptability
-* Initiative
-* Time Management
-* Stakeholder Engagement
+## Core Skills 
+* Data analysis and BI tools: SQL, Power BI, Advanced MS Excel, Power Query. 
+* Data analysis skills: KPI development, dashboard design, data modelling, exploratory analysis 
+* Programming and tools: Python (pandas, numpy, scikit-learn, matplotlib), JavaScript, HTML/CSS 
+* Business and communication: stakeholder engagement, requirements gathering, presentations and insight storytelling 
+* Cloud and data fundamentals: Microsoft Azure, relational and non-relational databases 
 
 ## Projects
 Check out some of my featured projects:
